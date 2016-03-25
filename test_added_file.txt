@@ -7,3 +7,5 @@
 4 - Hello my friend it is the third times of changings.
 
 5 - после коммита, еще один кометраий, и изменю все строки.
+
+6 - эта строчка редактировалась в Eclipse редакторе, у него есть EGit
